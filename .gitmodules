@@ -1,0 +1,4 @@
+[submodule "page"]
+	path = page
+	url = ../jekyll_layouts_pages.git
+	branch = main
